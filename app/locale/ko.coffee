@@ -719,7 +719,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    empty: "Empty"
 #    done: "Done"
 #    remove: "Remove"
-#    locked: "Locked"
+#    locked:  "Locked"
 
   general:
     and: "그리고"
@@ -780,7 +780,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    contact_us: "Contact Us"
     close_window: "창 닫기"
     learn_more: "더 배우기"
-#    more: "More"
+#    more: "더"
 #    fewer: "Fewer"
 #    with: "with"
 #    archived: "Archived"
@@ -4246,4 +4246,4 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    license_modal_subtitle: "Please complete this short form and one of our library specialists will reach out to provide a demo and custom pricing options!"
 #    license_modal_members: "Members Needing Access"
 #    license_modal_members_placeholder: "Approximately how many members will need access?"
-#    license_modal_contact: "Contact Our Team"
+#    license_modal_contact: "우리 팀에게 연락 하세요"
