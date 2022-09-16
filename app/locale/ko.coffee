@@ -1867,7 +1867,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     greetings: "안녕하세요@"
     back_classrooms: "내 교실로 돌아왔습니다!"
     back_classroom: "교실로 돌아가기"
-#    back_courses_coco: "Back to my courses"
+#    back_courses_coco: "내 코스로 돌아가기"
 #    back_courses_ozar: "Back to Classes"
 #    edit_details: "Edit class details"
 #    purchase_enrollments: "Purchase Student Licenses"
