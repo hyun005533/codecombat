@@ -1,8 +1,8 @@
 module.exports = nativeDescription: "한국어", englishDescription: "Korean", translation:
 
-#  ozaria_home:
-#    subtitle: "Computer Science that Captivates"
-#    heading_subtitle: "A coding adventure for students and your turnkey solution for teaching Computer Science."
+#  오자리아 홈:
+#    부제: "포로가 되는 컴퓨터 과학"
+#    heading_subtitle : "학생들을위한 코딩 모험과 컴퓨터 과학 교육을 위한 턴키 솔루션."
 #    item_list_p: "Try Chapter 1 for Free Today!"
 #    engaging_heading_corner: "A solution to Engage Students and Support Teachers"
 #    engaging_row1_h2: "Easy Implementation"
@@ -30,7 +30,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    core_curriculum_sample_lesson_slides: "View Sample Lesson Slides"
 #    global_community_header: "Join Our Global Community"
 #    global_community_row1_p: "Learners"
-#    global_community_row2_p: "Lines of Code"
+#    global_community_row2_p:코드의 줄
 #    global_community_row3_p: "Teachers"
 #    global_community_row4_p: "Countries"
 #    admin_dashboard_header: "Comprehensive Teacher & Admin Dashboards"
@@ -85,8 +85,8 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    global_subtitle3: "Teachers"
 #    global_subtitle4: "Countries"
 #    sign_up: "Sign Up"
-#    learner_number: "12 Million"
-#    code_line_number: "1 Billion"
+#    learner_number: "12 "
+#    code_line_number: "1 억만"
 
   new_home:
     title_coco: "CodeCombat - Python과 JavaScript를 배울 수 있는 코딩 게임"
@@ -1061,7 +1061,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     future_eng_5: "컴퓨터 공학을 추구하는 미국의 모든 K-12 학생들에게 학습과 직업 기회를 만드는 프로그램입니다."
 
 #  live_class:
-#    title: "Thank you!"
+#    title: "감사 합니다!"
 #    content: "Amazing! We just launched live online classes."
 #    link: "Ready to get ahead on your coding?"
 
@@ -1885,7 +1885,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    welcome_to_courses_coco: "Adventurer, welcome to CodeCombat!"
 #    welcome_to_courses_ozar: "Adventurers, welcome to Courses!"
 #    ready_to_play: "Ready to play?"
-#    start_new_game: "Start New Game"
+#    start_new_game: "세로운 게임 시작"
 #    play_now_learn_header: "Play now to learn"
 #    play_now_learn_1: "basic syntax to control your character"
 #    play_now_learn_2: "while loops to solve pesky puzzles"
@@ -2099,7 +2099,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    enrollments: "Student Licenses"
 #    resources: "Resources"
 #    help: "Help"
-#    language: "Language"
+#    language: "언어"
 #    edit_class_settings: "edit class settings"
 #    access_restricted: "Account Update Required"
 #    teacher_account_required: "A teacher account is required to access this content."
@@ -2118,7 +2118,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    no_students_yet: "This class has no students yet."
 #    no_students_yet_view_class: "View class to add students."
 #    try_refreshing: "(You may need to refresh the page)"
-#    create_new_class: "Create a New Class"
+#    create_new_class: "세로운 학습 "
 #    class_overview: "Class Overview" # View Class page
 #    avg_playtime: "Average level playtime"
 #    total_playtime: "Total play time"
@@ -3226,7 +3226,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    teacher_notified: "We've notified your teacher that you want to play more CodeCombat in your classroom!"
 
 #  delta:
-#    added: "Added"
+#    added: "추가됨"
 #    modified: "Modified"
 #    not_modified: "Not Modified"
 #    deleted: "Deleted"
