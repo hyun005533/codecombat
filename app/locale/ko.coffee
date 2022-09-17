@@ -178,7 +178,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     quotes_quote5_author: "학부모 Latthaphon Pohpon 씨"
     see_example: "예제 보기"
     slogan: "코딩을 배우는 가장 매력적인 방법!" # {change}
-    slogan_power_of_play: "Power of Play를 통해 코딩하는 방법을 배워 보세요."
+    slogan_power_of_play: "게임의 힘 통해 코딩하는 방법을 배워 보세요."
     teach_cs1_free: "무료로 CS1 가르치기"
     teachers_love_codecombat_title: "선생님들이 좋아하는 CodeCombat"
     teachers_love_codecombat_blurb1: "학생들이 코딩 방법을 배우기 위해 CodeCombat을 즐겨 사용한다고 말합니다."
